@@ -1,0 +1,2 @@
+# TOPIC MODELLING THESIS RESEARCH
+This project made a topic modelling from research thesis dokumen at UIN Syarif Hidayatullah Jakarta. This project using LDA & LSA. Collect data use web scrapping tools in chrome extension.
